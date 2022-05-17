@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @yaswanthk27
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Yaswanth Kumar Kapa
+- 👀 I’m interested in ...ML,AI
+- 🌱 I’m currently learning ...MachineLearning,Python,Tableau,Power BI
+- 💞️ I’m looking to collaborate on ...Azure, AWS, 
+- 📫 How to reach me ...yaswanthk27@hotmail.com
 
-<!---
-yaswanthk27/yaswanthk27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
